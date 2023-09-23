@@ -1,0 +1,7 @@
+:root{
+    --skin-color: #f021b2;
+}
+.aside .logo a::before{
+    content: '';
+    position: absolute;
+}
