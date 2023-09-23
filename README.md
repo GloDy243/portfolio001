@@ -1,7 +1,5 @@
 # portfolio001
 
-# Mon Portfolio
-
 Bienvenue sur mon portfolio en ligne ! Ce dépôt GitHub contient mes projets, mes compétences et mes informations de contact.
 
 ## Projets
